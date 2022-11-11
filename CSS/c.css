@@ -1,0 +1,176 @@
+.leer {
+    font-size: 3rem;
+   font-weight:150;
+   }
+.leer{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.imagen{
+    width: 60rem;
+height: auto;
+}
+.wath{
+    font-size: 3rem;
+    font-weight:150;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.nigga{
+    height: 30rem;
+    width: 55rem;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+    padding: 20px 40px 20px 40px;
+    background: #333333;
+}
+.reas{
+    margin-top: 4.5rem;
+    font-size: 2rem;
+}
+.nigga .h1,.h4,.reas{
+color: antiquewhite;
+}
+.h1{
+    font-size: 5rem;
+}
+.h4{
+    font-size: 1.5rem;
+}
+.read{
+    margin-top: 4.5rem;
+}
+.gray{
+    height: 30rem;
+    width: 55rem;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+    margin-top: 32px;
+    padding: 20px 40px 20px 40px;
+    background: #D6D6D6;
+}
+.gray .h11,.h44,.read{
+
+color: #333333;
+}
+.grays{
+    height: 30rem;
+    width: 55rem;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+    margin-top: 32px;
+    padding: 20px 40px 20px 40px;
+    background: #D6D6D6;
+}
+.grays .h111,.h444,.read{
+    color: #333333;
+}
+.puntitos{
+    width: 60rem;
+    height: auto;
+}
+.loguitoss{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.h11{
+    font-size: 4rem;
+}
+.h111{
+    font-size: 4rem;
+}
+.h44{
+    font-size: 1.5rem;
+}
+.h444{
+    font-size: 1.5rem;
+}
+.read{
+    margin-top: 4.5rem;
+}
+.punto{
+    align-self: center;
+}
+.portafolio{
+    font-size: 4rem;
+    text-align: center;  
+}
+.leters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fotos{
+    width: 60rem;
+    height: auto;  
+    margin-top: 32px;
+}
+.punto{
+    align-self: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.titu{
+    font-size: 4rem;
+    text-align: center;
+}
+.sr{
+    display: flex;
+    flex-direction: row;
+    justify-content:center; 
+    width:60rem;
+    height: auto;
+}
+.text{
+    font-size: 2rem;
+    text-align: center;  
+}
+.negro{
+  
+    padding: 2.5rem;
+    background-color:#363434;
+    width:60rem;
+    height: 60rem;
+}
+.textito{
+    
+    margin-top: 8rem;
+    font-size: 3rem;
+    text-align: center; 
+    color: #FFFFFF;
+}
+.boton{
+    font-size:  2.8rem;
+    text-decoration: none;
+    color: black;
+background-color: #FFFFFF;
+width:10rem;
+    height: 8rem;
+}
+.m{
+    margin: auto;
+    background-color: #FFFFFF;
+    width:10.5rem;
+    height: 4rem;   
+    padding: 1.5rem;
+}
+.textote{
+    margin-top: 6rem;
+    font-size: 5rem;
+    text-align: center; 
+    color: #FFFFFF;
+}
+.logod{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    margin-top: 5rem;
+    
+}

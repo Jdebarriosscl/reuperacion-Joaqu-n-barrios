@@ -1,0 +1,20 @@
+.titulo{ 
+    font-size: 2rem;
+}
+.buscador{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.buscador img{
+    width:2rem; 
+    height:2rem;
+}
+.rayitas{
+    width:2rem; 
+    height:2rem;
+}
+.crm{
+    display: flex;
+    flex-direction: row;
+}

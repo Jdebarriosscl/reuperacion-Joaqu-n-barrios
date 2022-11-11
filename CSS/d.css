@@ -1,0 +1,70 @@
+.caja1{
+    display: flex;
+    flex-direction: row;
+justify-content: space-around;
+}
+.proyect{
+   text-align: center; 
+}
+.zpato{
+    width: 60rem;
+    height: auto;  
+    margin-top: 32px;
+}
+.pt{
+    height: 10rem;
+    width: 55rem;
+    left: 0px;
+    top: 0px;
+    margin: auto;
+    padding: 20px 40px 20px 40px;
+    background-color:  #333333;
+    color: aliceblue;
+}
+.pt2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.o{
+    margin-top: 2rem;
+}
+.semi{
+    font-size: 5rem;
+}
+.semi2{
+    font-size: 2rem;
+}
+.graybl{
+    height: 541px;
+width: 728px;
+left: 0px;
+top: 320px;
+border-radius: 0px;
+padding: 80px 60px 80px 60px;
+background: #333333;
+}
+.name{
+    color: white;
+    background-color: #333333;
+    border-top: 0ch;
+    border-right: 0ch;
+    border-left: 0ch;
+    border-color: rgb(255, 255, 255);
+    width: 7rem;
+    height: 0.5rem;
+}
+.graybl p{
+    color: aliceblue;
+}
+.boto{
+    font-size:  2.8rem;
+    text-decoration: none;
+    color: black;
+background-color: #FFFFFF;
+width: 7rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
